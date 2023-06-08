@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muzammil (muzz-zum-mill)
 - 👀 I’m interested in advancing in Flutter development and product thinking.
-- 🌱 I’m currently learning BLoC Architecture
+- 🌱 I’m currently learning State Management
 - 📫 How to reach me - syedmuzammil67@gmail.com
 
 <!---
