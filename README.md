@@ -33,6 +33,4 @@ You can click the Preview link to take a look at your changes.
 [![Coderanks Summary](https://badges.muzammil-git.dev/dart_rank.svg)](https://profile.codersrank.io/user/muzammil-git/) 
 
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=muzammil-git&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 ---  
