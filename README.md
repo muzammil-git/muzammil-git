@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ---  
 
 
-### 📈 Scores & Stats  
+### 📈 Scores & Stats   
   
 [![Muzammil's Github Stats](https://github-readme-stats.vercel.app/api?username=muzammil-git&count_private=true&theme=default&show_icons=true)](https://github.com/muzammil-git) [![Coderanks Summary](https://badges.muzammil-git.dev/dart_rank.svg)](https://profile.codersrank.io/user/muzammil-git/) 
 
