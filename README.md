@@ -19,3 +19,10 @@ You can click the Preview link to take a look at your changes.
 + [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
   
 ---  
+
+
+### 📈 Scores & Stats  
+  
+[![PlugFox's Github Stats](https://github-readme-stats.vercel.app/api?username=muzammil-git&count_private=true&theme=default&show_icons=true)](https://github.com/plugfox) [![Coderanks Summary](https://badges.muzammil-git.dev/dart_rank.svg)](https://profile.codersrank.io/user/muzammil-git)  
+  
+---  
