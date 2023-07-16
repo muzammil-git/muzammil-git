@@ -13,3 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=muzammil-git)
 
+### ⚙️ Tech stack  
+  
++ [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
++ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
+  
+---  
