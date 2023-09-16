@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muzammil (muzz-zum-mill)
 - 👀 I’m interested in advancing in Flutter development and product thinking.
-- 🌱 I’m currently learning State Management
+- 🌱 I’m currently learning local DB (SQFLite)
 - 📫 How to reach me - syedmuzammil67@gmail.com
 
 <!---
