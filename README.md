@@ -32,7 +32,5 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HassanButt2019&theme=dark&hide_border=false)<br/>
 
-[![Coderanks Summary](https://badges.muzammil-git.dev/dart_rank.svg)](https://profile.codersrank.io/user/muzammil-git/) 
-
 
 ---  
