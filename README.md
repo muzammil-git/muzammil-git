@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muzammil (muzz-zum-mill)
+# 👋 Hi, I’m Muzammil (muzz-zum-mill)
 - 👀 I’m interested in advancing in Flutter development and product thinking.
 - 🌱 I’m currently learning local DB (SQFLite)
 - 📫 How to reach me - syedmuzammil67@gmail.com
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Profile Visits](https://komarev.com/ghpvc/?username=muzammil-git)
+![Profile Visits](https://komarev.com/ghpvc/?username=muzammil-git) &nbsp; &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 ### ⚙️ Tech stack  
   
