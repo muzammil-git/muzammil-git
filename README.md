@@ -1,6 +1,10 @@
 # 👋 Hi, I’m Muzammil (muzz-zum-mill)
+
+<img align="left" height="120" alt="hire me" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
+<br>
+
 - 👀 I’m interested in advancing in Flutter development and product thinking.
-- 🌱 I’m currently learning local DB (SQFLite)
+- 🌱 I’m currently learning conversational AI.
 - 📫 How to reach me - syedmuzammil67@gmail.com
 
 <!---
@@ -11,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Profile Visits](https://komarev.com/ghpvc/?username=muzammil-git) &nbsp; &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+![Profile Visits](https://komarev.com/ghpvc/?username=muzammil-git) &nbsp; &nbsp; <img alt="flutter developer" src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 ### ⚙️ Tech stack  
   
