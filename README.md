@@ -2,7 +2,7 @@
 
 - 💻 `Full-Stack Developer`
 
-- 🌱  Currently exploring the latest advancements in `Generative AI`
+- 🌱  Currently exploring `Generative AI` through LlamaIndex & Langchain
 
 - 📫 `How to reach me:` [syedmuzammil67@gmail.com](mailto:syedmuzammil67@gmail.com)
 
