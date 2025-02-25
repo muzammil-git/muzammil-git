@@ -24,17 +24,4 @@ You can click the Preview link to take a look at your changes.
 + [![Firebase](https://img.shields.io/badge/Firebase-ffffff?style=flat&logo=firebase&logoColor=%23ffcd35)](http://flutter.dev/)
 
 
-
-  
-
----  
-
-
-### 📊 GitHub Scores & Stats   
-  
-[![Muzammil's Github Stats](https://github-readme-stats.vercel.app/api?username=muzammil-git&count_private=true&theme=dark&show_icons=true)](https://github.com/muzammil-git) 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=HassanButt2019&theme=dark&hide_border=false)<br/>
-
-
 ---  
